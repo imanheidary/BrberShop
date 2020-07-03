@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "unGGCItHev3uknDHqsseDXBfjUdw44bQ7l+OzHFzzGZNNVCwTxlC+TEKuunenvz1M4xMm8zJ4vDLC9zpOvWRTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iman Heidary\\Desktop\\BarberShop\\BarberShop\\BarberAPi\\BarberAPi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iman Heidary\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.1.2\\microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

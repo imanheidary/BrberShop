@@ -1,0 +1,17 @@
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\bin\Debug\netcoreapp2.1\BarberShop.deps.json
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\bin\Debug\netcoreapp2.1\BarberShop.runtimeconfig.json
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\bin\Debug\netcoreapp2.1\BarberShop.runtimeconfig.dev.json
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\bin\Debug\netcoreapp2.1\BarberShop.dll
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.csprojAssemblyReference.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.csproj.CoreCompileInputs.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.RazorAssemblyInfo.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.RazorAssemblyInfo.cs
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.AssemblyInfoInputs.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.AssemblyInfo.cs
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.RazorTargetAssemblyInfo.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\bin\Debug\netcoreapp2.1\BarberShop.pdb
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.dll
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.pdb
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShop\obj\Debug\netcoreapp2.1\BarberShop.genruntimeconfig.cache

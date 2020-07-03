@@ -1,0 +1,15 @@
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\bin\Debug\netcoreapp3.1\BarberShopInfrastructure.deps.json
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\bin\Debug\netcoreapp3.1\BarberShopInfrastructure.dll
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\obj\Debug\netcoreapp3.1\BarberShopInfrastructure.csprojAssemblyReference.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\obj\Debug\netcoreapp3.1\BarberShopInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\obj\Debug\netcoreapp3.1\BarberShopInfrastructure.AssemblyInfo.cs
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\bin\Debug\netcoreapp3.1\BarberShopModel.dll
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\bin\Debug\netcoreapp3.1\BarberShopInfrastructure.runtimeconfig.json
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\bin\Debug\netcoreapp3.1\BarberShopInfrastructure.runtimeconfig.dev.json
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\bin\Debug\netcoreapp3.1\BarberShopInfrastructure.pdb
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\bin\Debug\netcoreapp3.1\BarberShopModel.pdb
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\obj\Debug\netcoreapp3.1\BarberShopInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\obj\Debug\netcoreapp3.1\BarberShopInfrastructure.csproj.CopyComplete
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\obj\Debug\netcoreapp3.1\BarberShopInfrastructure.dll
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\obj\Debug\netcoreapp3.1\BarberShopInfrastructure.pdb
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\infrastructure\obj\Debug\netcoreapp3.1\BarberShopInfrastructure.genruntimeconfig.cache

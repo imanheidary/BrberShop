@@ -1,0 +1,9 @@
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShopModel\bin\Debug\netcoreapp3.1\BarberShopModel.deps.json
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShopModel\bin\Debug\netcoreapp3.1\BarberShopModel.dll
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShopModel\bin\Debug\netcoreapp3.1\BarberShopModel.pdb
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShopModel\obj\Debug\netcoreapp3.1\BarberShopModel.csprojAssemblyReference.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShopModel\obj\Debug\netcoreapp3.1\BarberShopModel.AssemblyInfoInputs.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShopModel\obj\Debug\netcoreapp3.1\BarberShopModel.AssemblyInfo.cs
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShopModel\obj\Debug\netcoreapp3.1\BarberShopModel.csproj.CoreCompileInputs.cache
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShopModel\obj\Debug\netcoreapp3.1\BarberShopModel.dll
+C:\Users\Iman Heidary\Desktop\BarberShop\BarberShop\BarberShopModel\obj\Debug\netcoreapp3.1\BarberShopModel.pdb
